@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # vim:tw=80
-"""
-@version 0.1
-License GPL2
-
-ics-servers.py 
-"""
 
 #Built-in imports
 import logging
